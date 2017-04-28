@@ -21,7 +21,7 @@ public class DemoApplicationTests {
 	@Ignore
 	@Test
 	public void testDivide() {
-		fail(0==0);
+		assert(0==0);
 	}
 
 }
