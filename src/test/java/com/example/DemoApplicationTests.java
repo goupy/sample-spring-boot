@@ -11,6 +11,7 @@ public class DemoApplicationTests {
 
 	@Test
 	public void contextLoads() {
+		assert(0==0)
 	}
 
 }
