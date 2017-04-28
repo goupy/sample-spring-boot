@@ -13,5 +13,11 @@ public class DemoApplicationTests {
 	public void contextLoads() {
 		assert(0==0);
 	}
+	public class DemoApplicationTests2 {
+
+	@Test
+	public void contextLoads() {
+		assert(1==2);
+	}
 
 }
