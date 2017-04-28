@@ -13,10 +13,8 @@ public class DemoApplicationTests {
 	public void contextLoads() {
 		assert(0==0);
 	}
-	public class DemoApplicationTests2 {
-
 	@Test
-	public void contextLoads() {
+	public void contextLoads2() {
 		assert(1==2);
 	}
 
